@@ -1,7 +1,6 @@
 ### I'm Amit, Python and Java developer, Automation engineer   👋
 
-
-
+---
 
 🗓 I’m currently learning everything 
 
@@ -11,11 +10,15 @@
 
 ⚡ Fun fact: I love to play guitar 🎸 and video games 🎮
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="amit-biderman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+---
 
 ### Languages and Tools:
 <img src="https://img.icons8.com/color/36/000000/python.png"/><img src="https://img.icons8.com/color/36/000000/java-coffee-cup-logo.png"/>
