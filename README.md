@@ -32,10 +32,13 @@
 
 ### 📕 Latest Projects
 
-- 🕹️ [Checkers game](https://github.com/amitbiderman/Checkers)
+- 🕹️ [Checkers Game](https://github.com/amitbiderman/Checkers)
+- 🌐 [Second-Hand Automatic Search](https://github.com/amitbiderman/Selenium)
+- ⏲ [Jenkins Integration Project](https://github.com/amitbiderman/Jenkins)
 
 
 
+---
 
 <details>
   <summary>:zap: Github Stats</summary>
