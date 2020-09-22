@@ -18,8 +18,9 @@
 <br />
 
 ### Languages and Tools:
-<img src="https://img.icons8.com/color/36/000000/python.png"/><img src="https://img.icons8.com/officel/30/000000/selenium-test-automation.png"/>
+<img src="https://img.icons8.com/color/36/000000/python.png"/>
 <img src="https://img.icons8.com/color/36/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/officel/30/000000/selenium-test-automation.png"/>
 <img src="https://img.icons8.com/color/26/000000/jenkins.png"/>
 <img src="https://img.icons8.com/color/36/000000/linux.png"/><img src="https://img.icons8.com/dusk/30/000000/database-restore.png"/>
 <img src="https://img.icons8.com/fluent/36/000000/github.png"/>
