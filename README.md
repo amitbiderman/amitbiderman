@@ -30,6 +30,11 @@
 
 ---
 
+### 📕 Latest Projects
+
+- 🕹️ [Checkers game](https://github.com/amitbiderman/Checkers)
+
+
 
 
 <details>
