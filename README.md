@@ -18,6 +18,9 @@
 
 <br />
 
+[<img align="left" alt="amit-biderman | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+
 ---
 
 ### Languages and Tools:
@@ -51,6 +54,7 @@
 
 [github]: https://github.com/amitbiderman
 [linkedin]: https://www.linkedin.com/in/amit-biderman/
+[gmail]: mailto:amitbiderman1@gmail.com
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
