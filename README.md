@@ -15,9 +15,6 @@
 ### Connect with me:
 
 [<img align="left" alt="amit-biderman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
 [<img align="left" alt="amit-biderman | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
