@@ -35,7 +35,7 @@
 
 ### 📕 Latest Projects
 
-- 🕹️ [Checkers Game](https://github.com/amitbiderman/Checkers)
+- 🕹️ [AI-Checkers Game](https://github.com/amitbiderman/Checkers)
 - 🌐 [Second-Hand Automatic Search](https://github.com/amitbiderman/Selenium)
 - ⏲ [Jenkins Integration Project](https://github.com/amitbiderman/Jenkins)
 
