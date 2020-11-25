@@ -1,4 +1,4 @@
-### I'm Amit, Python and Java developer, Automation engineer   👋
+### I'm Amit,DevOps engineer   👋
 
 ---
 
