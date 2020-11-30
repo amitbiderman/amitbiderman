@@ -48,14 +48,12 @@
 
 ---
 
-<details>
-  <summary>📈 Github Stats</summary>
+### 📈 Github Stats
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amitbiderman&show_icons=true&hide_border=true" />
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitbiderman&layout=compact" />
   
 
-</details>
 
 [github]: https://github.com/amitbiderman
 [linkedin]: https://www.linkedin.com/in/amit-biderman/
