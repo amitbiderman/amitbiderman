@@ -1,6 +1,6 @@
 [![](https://github.com/amitbiderman/amitbiderman/blob/master/dino.gif)](#)
 
-### I'm Amit, DevOps engineer   👋
+### I'm Amit, DevOps engineer & Software Developer   👋
 
 ---
 
