@@ -52,6 +52,7 @@
   <summary>📈 Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amitbiderman&show_icons=true&hide_border=true" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitbiderman&layout=compact)](https://github.com/amitbiderman/github-readme-stats)
 
 </details>
 
