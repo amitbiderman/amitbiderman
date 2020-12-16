@@ -17,7 +17,10 @@
 ---
 
 ### Languages and Tools:
-<img src="https://img.icons8.com/color/36/000000/python.png"/><img src="https://img.icons8.com/color/36/000000/java-coffee-cup-logo.png"/>
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+<img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
 <img src="https://img.icons8.com/dusk/36/000000/docker.png"/>
 <img src="https://img.icons8.com/color/36/000000/amazon-web-services.png"/>
 <img src="https://img.icons8.com/color/36/000000/travis-ci.png"/>
