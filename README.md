@@ -54,8 +54,6 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitbiderman&layout=compact" />
   
 
----
-![Visitor Count](https://profile-counter.glitch.me/amitbiderman/count.svg)
 
 ---
 [github]: https://github.com/amitbiderman
