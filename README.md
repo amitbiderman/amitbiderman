@@ -45,7 +45,9 @@
 <a href="https://www.linkedin.com/in/amit-biderman/">
   <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
- |
+<a>
+</a>
+
 <a href="mailto:amitbiderman1@gmail.com">
   <img alt="Flaticon's Gmail" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/2965/2965306.svg" />
 </a>
