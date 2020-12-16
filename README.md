@@ -31,6 +31,20 @@
 
 ---
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/amit-biderman/">
+  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="mailto:amitbiderman1@gmail.com">
+  <img alt="Flaticon's Gmail" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/2965/2965306.svg" />
+</a>
+</p>
+<br />
+
+---
+
 ### 📕 Latest Projects
 - ☁️ [Industry Level Production Environment Multi-Container Web Application](https://github.com/amitbiderman/multi-docker)
 - 🕹️ [AI-Checkers Game](https://github.com/amitbiderman/Checkers)
@@ -48,21 +62,6 @@
   
   
   
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/amit-biderman/">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-<a href="mailto:amitbiderman1@gmail.com">
-  <img alt="Flaticon's Gmail" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/2965/2965306.svg" />
-</a>
-</p>
-<br />
-
-
----
 
 [github]: https://github.com/amitbiderman
 [linkedin]: https://www.linkedin.com/in/amit-biderman/
