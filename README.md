@@ -40,18 +40,8 @@
 ---
 
 ### Connect with me:
-<br/>
-<a href="https://www.linkedin.com/in/amit-biderman/">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
- 
-
-<a href="mailto:amitbiderman1@gmail.com">
-  <img alt="Flaticon's Gmail" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/2965/2965306.svg" />
-</a>
-</p>
-<br />
-
+[<img align="left" alt="amit-biderman | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="amit-biderman | Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][gmail]
 
 ---
 
