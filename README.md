@@ -30,7 +30,7 @@
 
 ---
 
-### 📕 Latest Projects
+### Latest Projects
 ☁️ [Industry Level Production Environment Multi-Container Web Application](https://github.com/amitbiderman/multi-docker)
 
 🕹️ [AI-Checkers Game](https://github.com/amitbiderman/Checkers)
