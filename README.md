@@ -48,7 +48,7 @@
   
   
 ---
-### 
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <br/>
@@ -60,6 +60,9 @@
 </a>
 </p>
 <br />
+
+
+---
 
 [github]: https://github.com/amitbiderman
 [linkedin]: https://www.linkedin.com/in/amit-biderman/
