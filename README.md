@@ -17,24 +17,14 @@
 ---
 
 ### Languages and Tools:
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/aws.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/kubernetes.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="vue" style="vertical-align:top; margin:4px">
-</p>
-
-
+<img src="https://img.icons8.com/color/36/000000/python.png"/><img src="https://img.icons8.com/color/36/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/dusk/36/000000/docker.png"/>
+<img src="https://img.icons8.com/color/36/000000/amazon-web-services.png"/>
 <img src="https://img.icons8.com/color/36/000000/travis-ci.png"/>
 <img src="https://img.icons8.com/color/26/000000/jenkins.png"/>
-<img src="https://img.icons8.com/color/36/000000/linux.png"/>
-<img src="https://img.icons8.com/dusk/30/000000/database-restore.png"/>
+<img src="https://img.icons8.com/color/36/000000/linux.png"/><img src="https://img.icons8.com/dusk/30/000000/database-restore.png"/>
 <img src="https://img.icons8.com/officel/30/000000/selenium-test-automation.png"/>
+<img src="https://img.icons8.com/color/36/000000/kubernetes.png"/>
 <img src="https://img.icons8.com/fluent/36/000000/github.png"/>
 
 
