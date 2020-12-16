@@ -15,6 +15,7 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
+<p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/amit-biderman/">
   <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
