@@ -51,8 +51,7 @@
 ### 📈 Github Stats
 
 ![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=amitbiderman) 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=amitbiderman&layout=compact)
-  
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitbiderman&layout=compact" />  
 
 [github]: https://github.com/amitbiderman
 [linkedin]: https://www.linkedin.com/in/amit-biderman/
