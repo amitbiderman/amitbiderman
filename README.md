@@ -12,19 +12,7 @@
 
 ⚡ Fun fact: I love to play guitar 🎸 and video games 🎮
 
----
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/amit-biderman/">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-<a href="mailto:amitbiderman1@gmail.com">
-  <img alt="Flaticon's Gmail" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/2965/2965306.svg" />
-</a>
-</p>
-<br />
 
 ---
 
@@ -58,7 +46,19 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amitbiderman&show_icons=true&hide_border=true" />
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitbiderman&layout=compact" />
   
+---
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/amit-biderman/">
+  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="mailto:amitbiderman1@gmail.com">
+  <img alt="Flaticon's Gmail" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/2965/2965306.svg" />
+</a>
+</p>
+<br />
 
 [github]: https://github.com/amitbiderman
 [linkedin]: https://www.linkedin.com/in/amit-biderman/
