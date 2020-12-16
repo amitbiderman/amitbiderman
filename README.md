@@ -32,9 +32,13 @@
 
 ### 📕 Latest Projects
 ☁️ [Industry Level Production Environment Multi-Container Web Application](https://github.com/amitbiderman/multi-docker)
+
 🕹️ [AI-Checkers Game](https://github.com/amitbiderman/Checkers)
+
 🌐 [Second-Hand Automatic Search](https://github.com/amitbiderman/Selenium)
+
 ⏲ [Jenkins Integration Project](https://github.com/amitbiderman/Jenkins)
+
 
 
 ---
