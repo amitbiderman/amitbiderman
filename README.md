@@ -28,6 +28,14 @@
 <img src="https://img.icons8.com/fluent/36/000000/github.png"/>
 
 
+---
+
+### 📕 Latest Projects
+- ☁️ [Industry Level Production Environment Multi-Container Web Application](https://github.com/amitbiderman/multi-docker)
+- 🕹️ [AI-Checkers Game](https://github.com/amitbiderman/Checkers)
+- 🌐 [Second-Hand Automatic Search](https://github.com/amitbiderman/Selenium)
+- ⏲ [Jenkins Integration Project](https://github.com/amitbiderman/Jenkins)
+
 
 ---
 
@@ -42,15 +50,6 @@
 </a>
 </p>
 <br />
-
----
-
-### 📕 Latest Projects
-- ☁️ [Industry Level Production Environment Multi-Container Web Application](https://github.com/amitbiderman/multi-docker)
-- 🕹️ [AI-Checkers Game](https://github.com/amitbiderman/Checkers)
-- 🌐 [Second-Hand Automatic Search](https://github.com/amitbiderman/Selenium)
-- ⏲ [Jenkins Integration Project](https://github.com/amitbiderman/Jenkins)
-
 
 
 ---
