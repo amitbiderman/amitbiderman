@@ -6,8 +6,6 @@
 
 🗓 I’m currently learning everything 
 
-📕 I'm available for job offers in Israel
-
 💡 Looking for interesting project collaborations
 
 ⚡ Fun fact: I love to play guitar 🎸 and video games 🎮
